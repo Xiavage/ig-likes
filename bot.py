@@ -93,8 +93,8 @@ class InstagramBot:
 
 
 if __name__ == '__main__':
-    ig_bot = InstagramBot('xiavage', 'Aixtrebla1')
+    ig_bot = InstagramBot('temp_username', 'temp_pass')
 
     # ig_bot.nav_user('isabellahouston_')
 
-    ig_bot.nav_user('jjulievu')
+    ig_bot.nav_user('temp_user')
